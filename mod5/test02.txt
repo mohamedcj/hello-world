@@ -1,5 +1,3 @@
 J'ai créé un fichier de test02.
 je vais essayer d’ajouter une ligne dans ce fichier (test01.txt) puis le commuter dans github.
 et une nouvelle ligne  en plus.
-bugfix en prod
-test de la branche hello-world-mod4
